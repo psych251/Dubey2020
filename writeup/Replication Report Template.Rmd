@@ -1,0 +1,100 @@
+---
+title: "Replication of Experiment 1 by Rachit Dubey & Thomas L. Griffiths (2020, Psychological Review)"
+author: "Xi Jia Zhou (xijiazho@stanford.edu)"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+---
+
+<!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
+
+## Introduction
+
+I am a first year PhD student in Stanford Graduate School of Education, working with Professor Nick Haber in Stanford Autonomous Agents Lab. My research interests are broadly around curiosity, social learning and causal learning. Particularly, one of my research interests is to understand the different motivations behind curiosity, such as the motivation to gain optimal predictability (causal learning about the world) and to belong to a social group (a social motivation). In this chosen paper, the first experiment and its result is relevant to my research interest. The result showed that people's curiosity, as a function of confidence, manipulated by how frequent the stimuli were shown, can be either an inverted U-shaped curve, or a decreasing line. Therefore, people's curiosity can be manipulated to peak either when they see stimluli that are moderately complex or when they see stimuli that are the most novel, depending on the environmental structures of how frequent past stimuli are shown and whether future stimuli will be chosen from past stimuli.
+
+The stimuli are 40 trivia questions that are about different topics, such as animals and books. They are originally published at Kang et al.(2009)'s first experiment. I will need to build the web-based study and deliver it to online participants through Prolific or MTurk. A potential challenge is to create or collect the stimuli myself and write the website using Javascript and PHP. I haven't written a study using these programming languages before. The authors didn't have their stimuli and experiment codes publicly accessible in a public repository. 
+
+Project repository (on Github): https://github.com/psych251/Dubey2020.
+Original paper (as hosted in your repo): https://github.com/psych251/Dubey2020/tree/main/original_paper.
+
+## Methods
+
+### Power Analysis
+
+Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
+
+### Planned Sample
+
+Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
+
+### Materials
+
+All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+
+### Procedure	
+
+Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+
+### Analysis Plan
+
+Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.  
+
+**Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
+
+### Differences from Original Study
+
+Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect.
+
+### Methods Addendum (Post Data Collection)
+
+You can comment this section out prior to final report with data collection.
+
+#### Actual Sample
+  Sample size, demographics, data exclusions based on rules spelled out in analysis plan
+
+#### Differences from pre-data collection methods plan
+  Any differences from what was described as the original plan, or “none”.
+
+
+## Results
+
+
+### Data preparation
+
+Data preparation following the analysis plan.
+	
+```{r include=F}
+###Data Preparation
+
+####Load Relevant Libraries and Functions
+
+####Import data
+
+#### Data exclusion / filtering
+
+#### Prepare data for analysis - create columns etc.
+```
+
+### Confirmatory analysis
+
+The analyses as specified in the analysis plan.  
+
+*Side-by-side graph with original graph is ideal here*
+
+###Exploratory analyses
+
+Any follow-up analyses desired (not required).  
+
+## Discussion
+
+### Summary of Replication Attempt
+
+Open the discussion section with a paragraph summarizing the primary result from the confirmatory analysis and the assessment of whether it replicated, partially replicated, or failed to replicate the original result.  
+
+### Commentary
+
+Add open-ended commentary (if any) reflecting (a) insights from follow-up exploratory analysis, (b) assessment of the meaning of the replication (or not) - e.g., for a failure to replicate, are the differences between original and present study ones that definitely, plausibly, or are unlikely to have been moderators of the result, and (c) discussion of any objections or challenges raised by the current and original authors about the replication attempt.  None of these need to be long.
