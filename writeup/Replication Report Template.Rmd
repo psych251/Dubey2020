@@ -22,7 +22,6 @@ Project repository (on Github): https://github.com/psych251/Dubey2020.
 Original paper (as hosted in your repo): https://github.com/psych251/Dubey2020/tree/main/original_paper.
 
 ## Methods
-
 ### Power Analysis
 
 Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
@@ -30,14 +29,25 @@ Original effect size, power analysis for samples to achieve 80%, 90%, 95% power 
 ### Planned Sample
 
 Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
+- Will probably use the same sample size. More to be determined.
 
 ### Materials
 
-All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+The same materials will be used from the original study: "The stimuli used in the experiment were 40 trivia questions on various topics that were taken directly from Experiment 1 in Kang et al. (2009). According to the authors, these questions were designed to measure curiosity about semantic knowledge and evoke a range of curiosity levels."
 
 ### Procedure	
 
-Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+The same procedure will be used from the original study: "The experiment was divided into three phases – Phase 1, Phase 2, and Phase 3. In Phase 1, participants were shown 40 trivia questions one after another and were asked to rate their confidence (i.e., probability that they know the correct answer) and curiosity in knowing the correct answer. Curiosity ratings were on a scale from 1 to 7 and the confidence scale ranged from 0 to 100%. The order of trivia questions was randomized for each participant. Note that Phase 1 of our experiment followed the procedure of Kang et al.’s design closely. This part of the experiment took approximately 7-8 minutes to complete.
+
+In Phase 2, all previous 40 questions from Phase 1 were again shown one after another and
+participants had the choice to reveal the answer to those questions. However, each time participants chose to reveal an answer, they had to wait an extra 10 seconds for the next question to appear. 
+
+Findings from Experiment 3 of Kang et al., (2009) showed that participants were more likely to spend time, to wait longer, for the answers that they were more curious about. Thus, requiring participants to spend time to obtain information served as a proxy to measure their curiosity.
+
+In Phase 3, participants were shown 10 out of the previously shown 40 questions and were
+given the chance to answer these 10 questions. For each correct answer, participants were given a bonus of $0.08. To discourage participants from using Google or other search engines, they were only given 2 minutes in total to answer the questions.
+
+At the beginning of the experiment, participants were randomly assigned to two conditions –the confidence and the uniform condition. These conditions differed in the way the 10 questions were sampled in Phase 3 and apart from that, the two conditions were exactly the same. In the confidence condition, the sampling in Phase 3, was done based on the confidence ratings provided by the participants i.e. the questions for which participant’s confidence rating was higher were more likely to appear in Phase 3. In the uniform condition, this sampling procedure was completely random i.e. each question was equally likely to appear in Phase 3. Importantly, participants were informed about the sampling procedure for their respective condition before the beginning of Phase 2. The confidence condition thus creates a situation in which confidence is related to probability of occurrence and the uniform condition breaks this relationship. To ensure that participants understood the sampling procedure, participants had to answer a multiple-choice question about the sampling procedure after the instructions for Phase 2 were shown to them. If they gave an incorrect answer, participants were shown the instructions again and had to re-answer the question (this process was repeated until they answered the question correctly)."
 
 ### Analysis Plan
 
@@ -61,8 +71,6 @@ You can comment this section out prior to final report with data collection.
 
 
 ## Results
-
-
 ### Data preparation
 
 Data preparation following the analysis plan.
@@ -90,7 +98,6 @@ The analyses as specified in the analysis plan.
 Any follow-up analyses desired (not required).  
 
 ## Discussion
-
 ### Summary of Replication Attempt
 
 Open the discussion section with a paragraph summarizing the primary result from the confirmatory analysis and the assessment of whether it replicated, partially replicated, or failed to replicate the original result.  
