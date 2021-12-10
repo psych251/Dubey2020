@@ -14,22 +14,23 @@ output:
 
 ## Introduction
 
-I am a first year PhD student in Stanford Graduate School of Education, working with Professor Nick Haber in Stanford Autonomous Agents Lab. My research interests are broadly around curiosity, social learning and causal learning. Particularly, one of my research interests is to understand the different motivations behind curiosity, such as the motivation to gain optimal predictability (causal learning about the world) and to belong to a social group (a social motivation). In this chosen paper, the first experiment and its result is relevant to my research interest. The result showed that people's curiosity, as a function of confidence, manipulated by how frequent the stimuli were shown, can be either an inverted U-shaped curve, or a decreasing line. Therefore, people's curiosity can be manipulated to peak either when they see stimluli that are moderately complex or when they see stimuli that are the most novel, depending on the environmental structures of how frequent past stimuli are shown and whether future stimuli will be chosen from past stimuli.
+I am a first year PhD student in Stanford Graduate School of Education, working with Professor Nick Haber in Stanford Autonomous Agents Lab. My research interests are broadly around curiosity, social learning and causal learning. Particularly, one of my research interests is to understand the different motivations behind curiosity, such as the motivation to gain optimal predictability (causal learning about the world) and to belong to a social group (a social motivation). 
 
-The stimuli are 40 trivia questions that are about different topics, such as animals and books. They are originally published at Kang et al.(2009)'s first experiment. I will need to build the web-based study and deliver it to online participants through Prolific or MTurk. A potential challenge is to create or collect the stimuli myself and write the website using Javascript and PHP. I haven't written a study using these programming languages before. The authors didn't have their stimuli and experiment codes publicly accessible in a public repository. 
+In this chosen paper, the first experiment and its result is relevant to my research interests. The result showed that people's curiosity to reveal some unknown trivia questions' answers, as a function of how confident they felt about answering these questions originally, could either be an inverted U-shaped curve or a decreasing line, depending on the distributions of how the future test questions were drawn. Therefore, people's curiosity could be manipulated to peak either when they saw questions that were moderately complex, or questions that were the most novel, depending on the condition. In the confidence sampling condition, when participants knew that the test questions would be drawn based on the distribution of their confidence ratings, they would choose to reveal the questions that they didn't have full knowledge of but not the least knwon questions before participants chose t proceed to the test. In the uniform sampling condition, when participants knew that the test questions would be drawn randomly in the test phase, they would choose to reveal the least known questions before continuing to the test phase. The stimuli used in the original study were 40 trivia questions on different topics, such as animals and books. They were originally published at Kang et al.(2009)'s first experiment. 
 
-Project repository (on Github): https://github.com/psych251/Dubey2020.
+I will need to build the web-based experiment for the first time and deliver it to online participants through Prolific. Potential challenges include implementing the experiment myself and learning the programming languages, the online experiment pipeline and the tools used in the process, such as learning Javascrip and PHP, Jspsych and Prolific. I was able to get the stimuli and most of the experiment code from the authors with requests. 
+
+Project repository (on Github): https://github.com/psych251/Dubey2020.</br>
 Original paper (as hosted in your repo): https://github.com/psych251/Dubey2020/tree/main/original_paper.
 
 ## Methods
 ### Power Analysis
 
-Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
+It is hard to conduct a power analysis because the original study used a quadratic curve to fit the experiment data for the main result.   
 
 ### Planned Sample
 
-Planned sample size and/or termination rule, sampling frame, known demographics if any, preselection rules if any.
-- Will probably use the same sample size. More to be determined.
+To be conservative in the replication study, the planned sample size is the same sample size as the original number of participants: 303. Will use the same demographics as the original study: adult participants (age >18) and living in the United States. Additionally, I will also choose participants who are fluent in English and balance the gender in the recruited participants.
 
 ### Materials
 
@@ -37,7 +38,9 @@ The same materials will be used from the original study: "The stimuli used in th
 
 ### Procedure	
 
-The same procedure will be used from the original study: "The experiment was divided into three phases – Phase 1, Phase 2, and Phase 3. In Phase 1, participants were shown 40 trivia questions one after another and were asked to rate their confidence (i.e., probability that they know the correct answer) and curiosity in knowing the correct answer. Curiosity ratings were on a scale from 1 to 7 and the confidence scale ranged from 0 to 100%. The order of trivia questions was randomized for each participant. Note that Phase 1 of our experiment followed the procedure of Kang et al.’s design closely. This part of the experiment took approximately 7-8 minutes to complete.
+The same procedure will be used from the original study, except that the 40 questions will be changed to 20 questions to make the test shorter, given constraints: 
+
+"The experiment was divided into three phases – Phase 1, Phase 2, and Phase 3. In Phase 1, participants were shown 40 trivia questions one after another and were asked to rate their confidence (i.e., probability that they know the correct answer) and curiosity in knowing the correct answer. Curiosity ratings were on a scale from 1 to 7 and the confidence scale ranged from 0 to 100%. The order of trivia questions was randomized for each participant. Note that Phase 1 of our experiment followed the procedure of Kang et al.’s design closely. This part of the experiment took approximately 7-8 minutes to complete.
 
 In Phase 2, all previous 40 questions from Phase 1 were again shown one after another and
 participants had the choice to reveal the answer to those questions. However, each time participants chose to reveal an answer, they had to wait an extra 10 seconds for the next question to appear. 
@@ -51,13 +54,22 @@ At the beginning of the experiment, participants were randomly assigned to two c
 
 ### Analysis Plan
 
-Can also quote directly, though it is less often spelled out effectively for an analysis strategy section.  The key is to report an analysis strategy that is as close to the original - data cleaning rules, data exclusion rules, covariates, etc. - as possible.  
+I will use the same exclusion criteria as the original paper: participants who revealed either none or all of the answers in Phase two will be excluded.
+
+For analysis: "Following Kang et al.’s (2009) methodology, the raw curiosity ratings were individually normalized and confidence was rescaled to range from 0 to 1, and we fitted the data to the equation, curiosity = b0 + b1 x c + b2 x c x (1 - c), to both the conditions, where c was the rescaled confidence score...(In Phase two), we first computed the probability of participants revealing an answer conditioned on the confidence rating for both the conditions...Similar to the previous analysis, we fitted data to the equation...to both conditions."
 
 **Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
+
+The key analysis of interest is to see whether the data from two conditions will fit to the quadratic function differently, where the data from the confidence condition will generate a significant coefficient for the quadratic term (b2 estimate = 0.6, p < 0.05 in the paper) and an insignificant coefficient for the liner term (b1 estimate = -0.03, p = 0.5). This means a U-shaped (quadratic) relationship exist for data in this condition. On the contrary, the data from the uniform condition generated an insignificant coefficient for the quadratic term (the b2 estimate was not reported, but p = .34) and a significant coefficient for the liner term (the b1 estimate = -0.27, p < .05). This implies a decreasing relationship for data in this conditon. 
 
 ### Differences from Original Study
 
 Explicitly describe known differences in sample, setting, procedure, and analysis plan from original study.  The goal, of course, is to minimize those differences, but differences will inevitably occur.  Also, note whether such differences are anticipated to make a difference based on claims in the original article or subsequent published research on the conditions for obtaining the effect.
+
+1) the 40 trivia questions from the original study will be changed to 20 questions. 
+2) the V key to reveal answers will be changed to A key (because in some computers pressing V can lead to a 'viewing' mode.)
+3) added a consent form for the class in the beginning and a thank you slide in the end after data collection.
+4) time and compensation are changed to this study's specifics.
 
 ### Methods Addendum (Post Data Collection)
 
@@ -73,29 +85,96 @@ You can comment this section out prior to final report with data collection.
 ## Results
 ### Data preparation
 
-Data preparation following the analysis plan.
+Data preparation will be in MATLAB code. If I have spare time, I will rewrite these code into R code.
 	
 ```{r include=F}
 ###Data Preparation
 
+  #   for i = 1:n %number of subjects
+  # 
+  #       subject_data = {};
+  #       subject_my = all_data{1,i};
+  #       bad_field_names = {'filename','x0x5F_id','x0x5F__v'};
+  #       subject_my = rmfield(subject_my,bad_field_names); %cleaned
+  #       field_names =[];
+  #       field_names = fieldnames(subject_my);
+  #      
+  #       for f = 1:height(field_names)
+  #           name = field_names{f,1}
+  #           value = getfield(subject_my,name)
+  #           subject_data{1,f} = value
+  #       end
+  #      
+  #           a = length(subject_data);
+  #           condition = 0;     
+  #           c = 0;
+  #      
+  #      .....
+  # end
+
 ####Load Relevant Libraries and Functions
 
+# Need to put functions in path. The file includes functions the author wrote, jsonlab-master and PlotPub-master libraries. Also need to download a machine learning package to run fitlm for the significance test.
+  
 ####Import data
+
+# clear all; 
+# all_data = loadjson('filename.json');
 
 #### Data exclusion / filtering
 
+# function in = check_badSubject(trivia_response)
+# 
+# in = 0;
+# 
+# if(sum(trivia_response(:,3)) < 1) %if only less than 1 answers are revealed
+#     in = 4;    
+# elseif(sum(trivia_response(:,3)) > 39) %if greater 39 answers are revealed
+#     in = 5;    
+# end
+# 
+# end
+
 #### Prepare data for analysis - create columns etc.
+
+# Phase = 2; %This is a variable that you can change -- phase == 1 for phase 1 results, phase == 2 for phase 2 results
+# 
+# probReveal = []; %store probability of revealing an answer for both conditions 
+# errorReveal = []; %store standard error of same
+# allReveal = []; %store all values of reveal for both conditions
+# allConf = []; %store all values of confidence for both conditions
+# allUncertain = []; %store all values of uncertainity for both conditions
+# allCur = []; %store curiosity ratings from phase 1 here for both conditions
+# 
+# for cond = 1:2 %conditions 1-2 
+#     trivia_responseAll = [];
+#     numThrown = 0;
+#     numSub = 0; 
+#     n = length(all_data); 
+#     bad = zeros(1,n); 
 ```
 
 ### Confirmatory analysis
 
 The analyses as specified in the analysis plan.  
 
-*Side-by-side graph with original graph is ideal here*
+```{r, echo=FALSE,out.width="32%",out.height="30%",fig.cap="Original Study Plot - Pilot A Plot- Pilot B Plot",fig.show='hold',fig.align='center'}
 
-###Exploratory analyses
+knitr::include_graphics(c("images/original_plot.png","images/PilotA_phase2.png","images/PilotB_phase2.png"))
+``` 
 
-Any follow-up analyses desired (not required).  
+
+```{r, echo=FALSE,out.width="49%",out.height="20%",fig.cap="Original Significance Test Result - Pilot B Result",fig.show='hold',fig.align='center'}
+
+knitr::include_graphics(c("images/original_paper_significance_test.png","images/pilotb_significant_test.png"))
+``` 
+
+
+### Exploratory analyses
+
+If there is additional time, I hope to conduct
+1) model explorations to see if other models such as two linear models can fit the data in the confidence condition, according to the method described here: http://datacolada.org/27.
+2) analyze topic curiosity to see if there are across participants' curiosity (tendency to reveal answers) for specific topics.
 
 ## Discussion
 ### Summary of Replication Attempt
