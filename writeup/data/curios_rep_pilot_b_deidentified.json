@@ -1,0 +1,5943 @@
+[{
+  "0": {
+    "rt": 3772,
+    "responses": "{\"Q0\":\"1\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 3775,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":4891},{\"page_index\":1,\"viewing_time\":3685},{\"page_index\":2,\"viewing_time\":17861}]",
+    "rt": 26438,
+    "index_shuffled": [
+      5,
+      6,
+      13,
+      19,
+      4,
+      15,
+      3,
+      17,
+      11,
+      1,
+      10,
+      12,
+      2,
+      7,
+      0,
+      18,
+      16,
+      8,
+      14,
+      9
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 31216,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 38221,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 8122,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 47348,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 54353,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 11525,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 66884,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 73888,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 4200,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 79092,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 86097,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 5465,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 92565,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 99569,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 3950,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 104524,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 111529,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 5733,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 118266,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 125269,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 3694,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 129968,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 136969,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 4096,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 142067,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 149069,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 3638,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 153712,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 160715,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 6400,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 168119,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 175123,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 6232,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 182359,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 189362,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 6035,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 196401,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 203405,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 10454,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 214862,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 221871,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 5575,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 228449,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 235453,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 3585,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 240042,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 247044,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 3677,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 251731,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 258735,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 3794,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 263533,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 270537,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 5021,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 276565,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 283572,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 6104,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"4\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 290679,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 297683,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 6469,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 305155,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":30958},{\"page_index\":1,\"viewing_time\":15168}]",
+    "rt": 46127,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 352284,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 9072,
+    "responses": "{\"Q0\":[\"Questions in the bonus round will appear based on your CORRECTNESS ratings\"]}",
+    "checked": "[3]",
+    "checked1": "3",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 362364,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "rt": 2606,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 44,
+    "time_elapsed": 368368,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "45": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 45,
+    "time_elapsed": 379371,
+    "internal_node_id": "0.0-4.0-1.0-0.0"
+  },
+  "46": {
+    "rt": 2205,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 385379,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "47": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 396383,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "48": {
+    "rt": 1437,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 402390,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "49": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 413394,
+    "internal_node_id": "0.0-4.2-1.2-0.2"
+  },
+  "50": {
+    "rt": 1389,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 419399,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "51": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 430402,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "52": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 436405,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "53": {
+    "rt": 1595,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 442409,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "54": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 453413,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "55": {
+    "rt": 1443,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 459416,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "56": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 470420,
+    "internal_node_id": "0.0-4.6-1.6-0.6"
+  },
+  "57": {
+    "rt": 1507,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 476427,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "58": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 487431,
+    "internal_node_id": "0.0-4.7-1.7-0.7"
+  },
+  "59": {
+    "rt": 2064,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 493436,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "60": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 504439,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "61": {
+    "rt": 2004,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 510446,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "62": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 521450,
+    "internal_node_id": "0.0-4.9-1.9-0.9"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 527453,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "64": {
+    "rt": 2072,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 533457,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "65": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 544458,
+    "internal_node_id": "0.0-4.11-1.11-0.11"
+  },
+  "66": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 550463,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "67": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 556466,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "68": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 562473,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "69": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 568477,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "70": {
+    "rt": 1508,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 574480,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "71": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 585483,
+    "internal_node_id": "0.0-4.16-1.16-0.16"
+  },
+  "72": {
+    "rt": 2003,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 591486,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "73": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 602490,
+    "internal_node_id": "0.0-4.17-1.17-0.17"
+  },
+  "74": {
+    "rt": 1894,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 608497,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "75": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 619500,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "76": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 625504,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "77": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":6779}]",
+    "rt": 6780,
+    "trial_type": "instructions",
+    "trial_index": 77,
+    "time_elapsed": 633286,
+    "internal_node_id": "0.0-5.0"
+  },
+  "78": {
+    "rt": 32411,
+    "responses": "{\"Q0\":\"shark\",\"Q1\":\"one year\",\"Q2\":\"bloodhound\",\"Q3\":\"BYU\",\"Q4\":\"paper\",\"Q5\":\"national mall\",\"Q6\":\"the bible\",\"Q7\":\"violin\",\"Q8\":\"Atlanta, GA\",\"Q9\":\"KISS\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 78,
+    "time_elapsed": 666706,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 03:22:06 GMT",
+    "completed": true,
+    "condition": 1
+  },
+  "_id": {
+    "$oid": "61a98d5efb05866f70df6faf"
+  },
+  "filename": "curiosity1638501726374.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 8938,
+    "responses": "{\"Q0\":\"2\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 8942,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":5940},{\"page_index\":1,\"viewing_time\":4682},{\"page_index\":2,\"viewing_time\":13775}]",
+    "rt": 24398,
+    "index_shuffled": [
+      19,
+      5,
+      16,
+      18,
+      10,
+      0,
+      12,
+      3,
+      17,
+      7,
+      15,
+      1,
+      9,
+      14,
+      2,
+      8,
+      11,
+      4,
+      6,
+      13
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 34342,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 41349,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 10817,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 53171,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 60175,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 3962,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 65145,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 72150,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 3897,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 77057,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 84065,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 6731,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 91804,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 98810,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 5275,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 105092,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 112099,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 4894,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 117999,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 125006,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 4137,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 130149,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 137161,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 2888,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 141056,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 148065,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 4898,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 153974,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 160978,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 3017,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 164998,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 172002,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 5082,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 178088,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 185097,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 4684,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 190788,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 197798,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 12864,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 211671,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 218679,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 2821,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 222505,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 229512,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 4386,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 234907,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 241917,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 2757,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 245680,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 252686,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 2287,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 255979,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 262982,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 3018,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 267007,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 274011,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 3480,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 278500,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 285507,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 2934,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 289445,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":17986},{\"page_index\":1,\"viewing_time\":19783}]",
+    "rt": 37770,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 328217,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 10936,
+    "responses": "{\"Q0\":[\"Questions in the bonus round will appear based on your CORRECTNESS ratings\"]}",
+    "checked": "[3]",
+    "checked1": "3",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 340173,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "rt": 2977,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 44,
+    "time_elapsed": 346183,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "45": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 45,
+    "time_elapsed": 357192,
+    "internal_node_id": "0.0-4.0-1.0-0.0"
+  },
+  "46": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 363198,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "47": {
+    "rt": 2897,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 369210,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "48": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 380216,
+    "internal_node_id": "0.0-4.2-1.2-0.2"
+  },
+  "49": {
+    "rt": 910,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 386228,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "50": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 397237,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "51": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 403245,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "52": {
+    "rt": 2676,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 409254,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "53": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 420263,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "54": {
+    "rt": 2115,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 426272,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "55": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 437280,
+    "internal_node_id": "0.0-4.6-1.6-0.6"
+  },
+  "56": {
+    "rt": 3277,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 443289,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "57": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 454299,
+    "internal_node_id": "0.0-4.7-1.7-0.7"
+  },
+  "58": {
+    "rt": 2246,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 460306,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "59": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 471317,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "60": {
+    "rt": 1735,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 477326,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "61": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 488334,
+    "internal_node_id": "0.0-4.9-1.9-0.9"
+  },
+  "62": {
+    "rt": 2706,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 494343,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 505352,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "64": {
+    "rt": 2022,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 511361,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "65": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 522370,
+    "internal_node_id": "0.0-4.11-1.11-0.11"
+  },
+  "66": {
+    "rt": 1601,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 528379,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "67": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 539388,
+    "internal_node_id": "0.0-4.12-1.12-0.12"
+  },
+  "68": {
+    "rt": 1246,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 545397,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "69": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 556405,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "70": {
+    "rt": 2413,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 562415,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "71": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 573423,
+    "internal_node_id": "0.0-4.14-1.14-0.14"
+  },
+  "72": {
+    "rt": 1957,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 579435,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "73": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 590444,
+    "internal_node_id": "0.0-4.15-1.15-0.15"
+  },
+  "74": {
+    "rt": 2025,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 596458,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "75": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 607467,
+    "internal_node_id": "0.0-4.16-1.16-0.16"
+  },
+  "76": {
+    "rt": 1275,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 613476,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "77": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 77,
+    "time_elapsed": 624485,
+    "internal_node_id": "0.0-4.17-1.17-0.17"
+  },
+  "78": {
+    "rt": 3657,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 78,
+    "time_elapsed": 630496,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "79": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 79,
+    "time_elapsed": 641507,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "80": {
+    "rt": 2431,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 80,
+    "time_elapsed": 647516,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "81": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 81,
+    "time_elapsed": 658524,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "82": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":9226}]",
+    "rt": 9227,
+    "trial_type": "instructions",
+    "trial_index": 82,
+    "time_elapsed": 668756,
+    "internal_node_id": "0.0-5.0"
+  },
+  "83": {
+    "rt": 77438,
+    "responses": "{\"Q0\":\"\",\"Q1\":\"Bible\",\"Q2\":\"Kiss\",\"Q3\":\"Belgium \",\"Q4\":\"George Carlin \",\"Q5\":\"Volion \",\"Q6\":\"bloodhound\",\"Q7\":\"one year\",\"Q8\":\"\",\"Q9\":\"Shark\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 83,
+    "time_elapsed": 747221,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 03:24:30 GMT",
+    "completed": true,
+    "condition": 1
+  },
+  "_id": {
+    "$oid": "61a98deefb05866f70df6fb1"
+  },
+  "filename": "curiosity1638501870315.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 6386,
+    "responses": "{\"Q0\":\"3\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 6391,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":11198},{\"page_index\":1,\"viewing_time\":5575},{\"page_index\":2,\"viewing_time\":20614}]",
+    "rt": 37388,
+    "index_shuffled": [
+      13,
+      0,
+      11,
+      8,
+      1,
+      2,
+      9,
+      12,
+      3,
+      19,
+      17,
+      16,
+      14,
+      6,
+      15,
+      10,
+      18,
+      7,
+      5,
+      4
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 44796,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 51807,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 15268,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 68088,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 75114,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 4921,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 81045,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 88073,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 6004,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 95093,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 102108,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 4710,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 107835,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 114857,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 5780,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 121646,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 128673,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 4971,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 134653,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 141671,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 5316,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 148005,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 155023,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 3812,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 159839,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 166850,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 5955,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 173824,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 180839,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 7006,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 188864,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 195875,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 4092,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 200971,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 208000,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 5467,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 214476,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 221493,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 2839,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 225337,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 232343,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 3020,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 236365,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 243378,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 4448,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 248832,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 255862,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 4340,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 261209,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 268241,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 4285,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 273538,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 280556,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 5165,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 286738,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 293753,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 4600,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 299357,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 306379,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 7336,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 314731,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":60120},{\"page_index\":1,\"viewing_time\":54224}]",
+    "rt": 114345,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 430078,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 11745,
+    "responses": "{\"Q0\":[\"Questions in the bonus round will appear based on your CORRECTNESS ratings\"]}",
+    "checked": "[3]",
+    "checked1": "3",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 442836,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "rt": 2369,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 44,
+    "time_elapsed": 448864,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "45": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 45,
+    "time_elapsed": 459876,
+    "internal_node_id": "0.0-4.0-1.0-0.0"
+  },
+  "46": {
+    "rt": 1261,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 465894,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "47": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 476934,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "48": {
+    "rt": 1547,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 482961,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "49": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 493974,
+    "internal_node_id": "0.0-4.2-1.2-0.2"
+  },
+  "50": {
+    "rt": 2967,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 499998,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "51": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 511016,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "52": {
+    "rt": 2961,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 517042,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "53": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 528068,
+    "internal_node_id": "0.0-4.4-1.4-0.4"
+  },
+  "54": {
+    "rt": 1468,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 534077,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "55": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 545092,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "56": {
+    "rt": 1364,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 551099,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "57": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 562123,
+    "internal_node_id": "0.0-4.6-1.6-0.6"
+  },
+  "58": {
+    "rt": 1710,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 568143,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "59": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 579164,
+    "internal_node_id": "0.0-4.7-1.7-0.7"
+  },
+  "60": {
+    "rt": 1428,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 585196,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "61": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 596230,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "62": {
+    "rt": 1992,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 602247,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 613268,
+    "internal_node_id": "0.0-4.9-1.9-0.9"
+  },
+  "64": {
+    "rt": 1003,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 619318,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "65": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 630346,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "66": {
+    "rt": 1308,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 636367,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "67": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 647375,
+    "internal_node_id": "0.0-4.11-1.11-0.11"
+  },
+  "68": {
+    "rt": 2436,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 653384,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "69": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 664396,
+    "internal_node_id": "0.0-4.12-1.12-0.12"
+  },
+  "70": {
+    "rt": 913,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 670421,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "71": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 681431,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "72": {
+    "rt": 2467,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 687447,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "73": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 698466,
+    "internal_node_id": "0.0-4.14-1.14-0.14"
+  },
+  "74": {
+    "rt": 1919,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 704494,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "75": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 715500,
+    "internal_node_id": "0.0-4.15-1.15-0.15"
+  },
+  "76": {
+    "rt": 1000,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 721524,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "77": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 77,
+    "time_elapsed": 732545,
+    "internal_node_id": "0.0-4.16-1.16-0.16"
+  },
+  "78": {
+    "rt": 807,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 78,
+    "time_elapsed": 738568,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "79": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 79,
+    "time_elapsed": 749584,
+    "internal_node_id": "0.0-4.17-1.17-0.17"
+  },
+  "80": {
+    "rt": 1033,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 80,
+    "time_elapsed": 755600,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "81": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 81,
+    "time_elapsed": 766612,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "82": {
+    "rt": 1327,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 82,
+    "time_elapsed": 772638,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "83": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 83,
+    "time_elapsed": 783655,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "84": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":10209}]",
+    "rt": 10209,
+    "trial_type": "instructions",
+    "trial_index": 84,
+    "time_elapsed": 794872,
+    "internal_node_id": "0.0-5.0"
+  },
+  "85": {
+    "rt": 47225,
+    "responses": "{\"Q0\":\"The Mall\",\"Q1\":\"Bloodhound\",\"Q2\":\"Violin\",\"Q3\":\"Whistle-stop campaign\",\"Q4\":\"The Bible\",\"Q5\":\"Peanuts\",\"Q6\":\"Belgium\",\"Q7\":\"Shark\",\"Q8\":\"Brigham Young University\",\"Q9\":\"Kiss\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 85,
+    "time_elapsed": 843122,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 03:24:47 GMT",
+    "completed": true,
+    "condition": 1
+  },
+  "_id": {
+    "$oid": "61a98e00fb05866f70df6fb3"
+  },
+  "filename": "curiosity1638501887446.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 5124,
+    "responses": "{\"Q0\":\"4\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 5131,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":4090},{\"page_index\":1,\"viewing_time\":2699},{\"page_index\":2,\"viewing_time\":21253}]",
+    "rt": 28043,
+    "index_shuffled": [
+      12,
+      1,
+      16,
+      7,
+      17,
+      4,
+      9,
+      5,
+      8,
+      18,
+      14,
+      6,
+      13,
+      0,
+      11,
+      15,
+      2,
+      10,
+      19,
+      3
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 34177,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 41188,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 14104,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 56308,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 63312,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 8510,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 72836,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 79850,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 2479,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 83342,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 90355,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 8554,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 99921,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 106945,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 5201,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 113159,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 120162,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 10059,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 131236,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 138257,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 7898,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 147170,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 154191,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 5168,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 160371,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 167394,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 9883,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 178290,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 185304,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 3659,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 189970,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 196991,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 7056,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 205058,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 212082,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 7122,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 220205,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 227220,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 5182,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 233417,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 240424,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 6242,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 247678,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 254694,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 3916,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 259626,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 266643,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 3290,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 270948,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 277962,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 4453,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 283424,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 290438,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 8504,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 299960,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 306987,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 18622,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 326623,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 333642,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 7335,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 341991,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":22711},{\"page_index\":1,\"viewing_time\":24149}]",
+    "rt": 46861,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 389855,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 27015,
+    "responses": "{\"Q0\":[\"Questions will appear RANDOMLY in the bonus round\"]}",
+    "checked": "[1]",
+    "checked1": "1",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 417886,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":14841},{\"page_index\":1,\"viewing_time\":1769}]",
+    "rt": 16610,
+    "trial_type": "instructions",
+    "trial_index": 44,
+    "time_elapsed": 438271,
+    "internal_node_id": "0.0-3.1-0.1"
+  },
+  "45": {
+    "rt": 1821,
+    "responses": "{\"Q0\":[\"Questions in the bonus round will appear based on your CORRECTNESS ratings\"]}",
+    "checked": "[3]",
+    "checked1": "3",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 45,
+    "time_elapsed": 441099,
+    "internal_node_id": "0.0-3.1-1.1"
+  },
+  "46": {
+    "rt": 3428,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 447120,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "47": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 458133,
+    "internal_node_id": "0.0-4.0-1.0-0.0"
+  },
+  "48": {
+    "rt": 1501,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 464161,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "49": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 475175,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "50": {
+    "rt": 3884,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 481194,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "51": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 492211,
+    "internal_node_id": "0.0-4.2-1.2-0.2"
+  },
+  "52": {
+    "rt": 1392,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 498227,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "53": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 509248,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "54": {
+    "rt": 1099,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 515263,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "55": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 526291,
+    "internal_node_id": "0.0-4.4-1.4-0.4"
+  },
+  "56": {
+    "rt": 4021,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 532305,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "57": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 543323,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "58": {
+    "rt": 1344,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 549353,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "59": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 560369,
+    "internal_node_id": "0.0-4.6-1.6-0.6"
+  },
+  "60": {
+    "rt": 2723,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 566392,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "61": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 577408,
+    "internal_node_id": "0.0-4.7-1.7-0.7"
+  },
+  "62": {
+    "rt": 2318,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 583433,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 594459,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "64": {
+    "rt": 2869,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 600474,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "65": {
+    "rt": 2160,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": 18,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 611491,
+    "internal_node_id": "0.0-4.9-1.9-0.9"
+  },
+  "66": {
+    "rt": 1651,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 617513,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "67": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 628531,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "68": {
+    "rt": 1599,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 634543,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "69": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 645558,
+    "internal_node_id": "0.0-4.11-1.11-0.11"
+  },
+  "70": {
+    "rt": 2430,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 651580,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "71": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 662597,
+    "internal_node_id": "0.0-4.12-1.12-0.12"
+  },
+  "72": {
+    "rt": 875,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 668616,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "73": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 679634,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "74": {
+    "rt": 2454,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 685650,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "75": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 696669,
+    "internal_node_id": "0.0-4.14-1.14-0.14"
+  },
+  "76": {
+    "rt": 1529,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 702689,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "77": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 77,
+    "time_elapsed": 713708,
+    "internal_node_id": "0.0-4.15-1.15-0.15"
+  },
+  "78": {
+    "rt": 3116,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 78,
+    "time_elapsed": 719728,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "79": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 79,
+    "time_elapsed": 730744,
+    "internal_node_id": "0.0-4.16-1.16-0.16"
+  },
+  "80": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 80,
+    "time_elapsed": 736760,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "81": {
+    "rt": 1528,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 81,
+    "time_elapsed": 742788,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "82": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 82,
+    "time_elapsed": 753804,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "83": {
+    "rt": 2416,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 83,
+    "time_elapsed": 759826,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "84": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 84,
+    "time_elapsed": 770843,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "85": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":66146}]",
+    "rt": 66146,
+    "trial_type": "instructions",
+    "trial_index": 85,
+    "time_elapsed": 837999,
+    "internal_node_id": "0.0-5.0"
+  },
+  "86": {
+    "rt": 55838,
+    "responses": "{\"Q0\":\"Belgium\",\"Q1\":\"The mall\",\"Q2\":\"Shark\",\"Q3\":\"Atlanta\",\"Q4\":\"Deafness\",\"Q5\":\"Pig\",\"Q6\":\"University of Phoenix\",\"Q7\":\"George Carlin\",\"Q8\":\"The Bible\",\"Q9\":\"Paper\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 86,
+    "time_elapsed": 894853,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 03:31:57 GMT",
+    "completed": true,
+    "condition": 1
+  },
+  "_id": {
+    "$oid": "61a98faffb05866f70df6fb5"
+  },
+  "filename": "curiosity1638502317806.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 23384,
+    "responses": "{\"Q0\":\"5\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 23392,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":4030},{\"page_index\":1,\"viewing_time\":15076},{\"page_index\":2,\"viewing_time\":20402}]",
+    "rt": 39510,
+    "index_shuffled": [
+      9,
+      18,
+      11,
+      1,
+      4,
+      5,
+      2,
+      16,
+      7,
+      17,
+      10,
+      0,
+      13,
+      6,
+      14,
+      12,
+      19,
+      3,
+      15,
+      8
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 63905,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 70914,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 6197,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 78132,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 85140,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 4560,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 90706,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 97715,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 3063,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 101787,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 108794,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 2281,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 112082,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 119091,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 7406,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 127508,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 134517,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 3405,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 138934,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 145945,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 3134,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 150091,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 157098,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 2920,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 161028,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 168036,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 5130,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 174175,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 181185,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 2673,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 184865,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 191877,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 2780,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 195668,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 202679,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 3041,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 206729,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 213738,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 3017,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 217763,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 224772,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 2510,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 228290,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 235300,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 2555,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 238861,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 245869,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 4244,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 251122,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 258132,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 3359,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 262499,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 269502,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 2256,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 272766,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 279778,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 2757,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 283543,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 290554,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 2651,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 294215,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":7703},{\"page_index\":1,\"viewing_time\":40100}]",
+    "rt": 47804,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 343021,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 6661,
+    "responses": "{\"Q0\":[\"Questions will appear RANDOMLY in the bonus round\"]}",
+    "checked": "[1]",
+    "checked1": "1",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 350704,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "rt": 2747,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 44,
+    "time_elapsed": 356717,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "45": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 45,
+    "time_elapsed": 367726,
+    "internal_node_id": "0.0-4.0-1.0-0.0"
+  },
+  "46": {
+    "rt": 3559,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 373735,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "47": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 384741,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "48": {
+    "rt": 3399,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 390752,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "49": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 401758,
+    "internal_node_id": "0.0-4.2-1.2-0.2"
+  },
+  "50": {
+    "rt": 2799,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 407765,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "51": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 418777,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "52": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 424788,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "53": {
+    "rt": 3205,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 430801,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "54": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 441812,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "55": {
+    "rt": 3888,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 447826,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "56": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 458833,
+    "internal_node_id": "0.0-4.6-1.6-0.6"
+  },
+  "57": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 464847,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "58": {
+    "rt": 3105,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 470857,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "59": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 481868,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "60": {
+    "rt": 2627,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 487873,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "61": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 498881,
+    "internal_node_id": "0.0-4.9-1.9-0.9"
+  },
+  "62": {
+    "rt": 2473,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 504895,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 515906,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "64": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 521914,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "65": {
+    "rt": 2043,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 527925,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "66": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 538930,
+    "internal_node_id": "0.0-4.12-1.12-0.12"
+  },
+  "67": {
+    "rt": 2570,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 544940,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "68": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 555949,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "69": {
+    "rt": 2751,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 561962,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "70": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 572971,
+    "internal_node_id": "0.0-4.14-1.14-0.14"
+  },
+  "71": {
+    "rt": 3441,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 578986,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "72": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 589998,
+    "internal_node_id": "0.0-4.15-1.15-0.15"
+  },
+  "73": {
+    "rt": 3430,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 596009,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "74": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 607018,
+    "internal_node_id": "0.0-4.16-1.16-0.16"
+  },
+  "75": {
+    "rt": 3287,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 613033,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "76": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 624047,
+    "internal_node_id": "0.0-4.17-1.17-0.17"
+  },
+  "77": {
+    "rt": 2844,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 77,
+    "time_elapsed": 630059,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "78": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 78,
+    "time_elapsed": 641066,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "79": {
+    "rt": 3129,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 79,
+    "time_elapsed": 647080,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "80": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 80,
+    "time_elapsed": 658093,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "81": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":3456}]",
+    "rt": 3456,
+    "trial_type": "instructions",
+    "trial_index": 81,
+    "time_elapsed": 662553,
+    "internal_node_id": "0.0-5.0"
+  },
+  "82": {
+    "rt": 50156,
+    "responses": "{\"Q0\":\"The Bible\",\"Q1\":\"Smithsonian\",\"Q2\":\"Birmingham, Al\",\"Q3\":\"Belgium\",\"Q4\":\"University of Phoenix\",\"Q5\":\"Bats\",\"Q6\":\"Violin\",\"Q7\":\"Paper\",\"Q8\":\"Pittsburgh\",\"Q9\":\"Shark\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 82,
+    "time_elapsed": 713732,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 04:05:00 GMT",
+    "completed": true,
+    "condition": 2
+  },
+  "_id": {
+    "$oid": "61a9976d2c4bc58ddce42d3c"
+  },
+  "filename": "curiosity1638504300816.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 4455,
+    "responses": "{\"Q0\":\"6\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 4458,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":15579},{\"page_index\":1,\"viewing_time\":6580},{\"page_index\":2,\"viewing_time\":23278}]",
+    "rt": 45438,
+    "index_shuffled": [
+      2,
+      6,
+      4,
+      7,
+      17,
+      15,
+      0,
+      18,
+      5,
+      19,
+      9,
+      14,
+      3,
+      1,
+      11,
+      16,
+      8,
+      12,
+      10,
+      13
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 50903,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 57901,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 11006,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 69914,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 76918,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 6990,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 84914,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 91920,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 8919,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 101845,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 108852,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 5483,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 115343,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 122350,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 3615,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 126969,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 133975,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 3345,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 138326,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 145335,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 3366,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 149707,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 156712,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 4289,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 162007,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 169012,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 5994,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 176013,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 183019,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 6601,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 190626,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 197630,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 3346,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 201979,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 208985,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 4742,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 214734,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 221738,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 4007,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 226752,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 233760,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 5979,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 240747,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 247755,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 4601,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 253363,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 260369,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 3399,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 264773,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 271775,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 4229,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 277010,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 284017,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 3207,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 288228,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 295236,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 3576,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 299816,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 306820,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 3991,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"9\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 311815,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":14722},{\"page_index\":1,\"viewing_time\":23283}]",
+    "rt": 38005,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 350821,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 16767,
+    "responses": "{\"Q0\":[\"Questions will appear RANDOMLY in the bonus round\"]}",
+    "checked": "[1]",
+    "checked1": "1",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 368597,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 44,
+    "time_elapsed": 374602,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "45": {
+    "rt": 1787,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 45,
+    "time_elapsed": 380610,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "46": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 391616,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "47": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 397624,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "48": {
+    "rt": 2041,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 403632,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "49": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 414638,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "50": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 420646,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "51": {
+    "rt": 4225,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 426654,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "52": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 437660,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "53": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 443668,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "54": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 449676,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "55": {
+    "rt": 1895,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 455684,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "56": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 466690,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "57": {
+    "rt": 1591,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 472698,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "58": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 483704,
+    "internal_node_id": "0.0-4.9-1.9-0.9"
+  },
+  "59": {
+    "rt": 1631,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 489712,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "60": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 500718,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "61": {
+    "rt": 1663,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 506726,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "62": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 517732,
+    "internal_node_id": "0.0-4.11-1.11-0.11"
+  },
+  "63": {
+    "rt": 1738,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 523740,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "64": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 534746,
+    "internal_node_id": "0.0-4.12-1.12-0.12"
+  },
+  "65": {
+    "rt": 2380,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 540754,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "66": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 551760,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "67": {
+    "rt": 2128,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 557768,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "68": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 568774,
+    "internal_node_id": "0.0-4.14-1.14-0.14"
+  },
+  "69": {
+    "rt": 2712,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 574782,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "70": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 585788,
+    "internal_node_id": "0.0-4.15-1.15-0.15"
+  },
+  "71": {
+    "rt": 1917,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 591796,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "72": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 602802,
+    "internal_node_id": "0.0-4.16-1.16-0.16"
+  },
+  "73": {
+    "rt": 2543,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 608810,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "74": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 619818,
+    "internal_node_id": "0.0-4.17-1.17-0.17"
+  },
+  "75": {
+    "rt": 1473,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 625824,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "76": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 636830,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "77": {
+    "rt": 2045,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 77,
+    "time_elapsed": 642838,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "78": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 78,
+    "time_elapsed": 653844,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "79": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":8977}]",
+    "rt": 8977,
+    "trial_type": "instructions",
+    "trial_index": 79,
+    "time_elapsed": 663826,
+    "internal_node_id": "0.0-5.0"
+  },
+  "80": {
+    "rt": 39736,
+    "responses": "{\"Q0\":\"pig\",\"Q1\":\"otome\",\"Q2\":\"whistle-stop\",\"Q3\":\"george carlin\",\"Q4\":\"paper\",\"Q5\":\"atlanta, georgia\",\"Q6\":\"peanuts\",\"Q7\":\"bats\",\"Q8\":\"kiss\",\"Q9\":\"belgium\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 80,
+    "time_elapsed": 704569,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 04:05:17 GMT",
+    "completed": true,
+    "condition": 2
+  },
+  "_id": {
+    "$oid": "61a9977d2c4bc58ddce42d3e"
+  },
+  "filename": "curiosity1638504317290.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 3141,
+    "responses": "{\"Q0\":\"7\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 3145,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":6722},{\"page_index\":1,\"viewing_time\":4320},{\"page_index\":2,\"viewing_time\":18152}]",
+    "rt": 29195,
+    "index_shuffled": [
+      5,
+      16,
+      1,
+      18,
+      2,
+      11,
+      17,
+      15,
+      9,
+      12,
+      0,
+      19,
+      6,
+      10,
+      8,
+      3,
+      13,
+      4,
+      7,
+      14
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 33344,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 40365,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 7113,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 48496,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 55515,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 19512,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 76048,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 83059,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 7439,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 91512,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 98515,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 4309,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 103832,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 110844,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 3761,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 115624,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 122650,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 6156,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 129822,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 136832,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 10100,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 147943,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 154967,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 6339,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 162311,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 169318,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 3622,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 173943,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 180972,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 3450,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 185439,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 192468,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 3638,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 197111,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 204133,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 4458,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 209599,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 216614,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 5781,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 223407,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 230439,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 2852,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 234303,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 241325,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 7007,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 249344,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 256373,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 3536,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 260912,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 267931,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 3091,
+    "responses": "{\"Q0\":\"2\",\"Q1\":\"10\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 272040,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 279055,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 2785,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"4\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 282847,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 289869,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 2632,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 293503,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 300517,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 3537,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 305064,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":36161},{\"page_index\":1,\"viewing_time\":58392}]",
+    "rt": 94553,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 400623,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 12243,
+    "responses": "{\"Q0\":[\"Questions will appear RANDOMLY in the bonus round\"]}",
+    "checked": "[1]",
+    "checked1": "1",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 413904,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "rt": 1840,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 44,
+    "time_elapsed": 419939,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "45": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 45,
+    "time_elapsed": 430960,
+    "internal_node_id": "0.0-4.0-1.0-0.0"
+  },
+  "46": {
+    "rt": 2162,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 436992,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "47": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 448015,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "48": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 454033,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "49": {
+    "rt": 1953,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 460065,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "50": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 471092,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "51": {
+    "rt": 2051,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 477108,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "52": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 488125,
+    "internal_node_id": "0.0-4.4-1.4-0.4"
+  },
+  "53": {
+    "rt": 3470,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 494148,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "54": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 505166,
+    "internal_node_id": "0.0-4.5-1.5-0.5"
+  },
+  "55": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 511190,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "56": {
+    "rt": 2305,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 517220,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "57": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 528251,
+    "internal_node_id": "0.0-4.7-1.7-0.7"
+  },
+  "58": {
+    "rt": 2204,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 534272,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "59": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 545288,
+    "internal_node_id": "0.0-4.8-1.8-0.8"
+  },
+  "60": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 551306,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "61": {
+    "rt": 1844,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 557336,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "62": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 568356,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 574378,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "64": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 580397,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "65": {
+    "rt": 1908,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 586422,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "66": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 597452,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "67": {
+    "rt": 2626,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 603474,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "68": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 614484,
+    "internal_node_id": "0.0-4.14-1.14-0.14"
+  },
+  "69": {
+    "rt": 3226,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 620506,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "70": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 631532,
+    "internal_node_id": "0.0-4.15-1.15-0.15"
+  },
+  "71": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 637550,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "72": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 643579,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "73": {
+    "rt": 2179,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 73,
+    "time_elapsed": 649611,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "74": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 74,
+    "time_elapsed": 660634,
+    "internal_node_id": "0.0-4.18-1.18-0.18"
+  },
+  "75": {
+    "rt": 2370,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 75,
+    "time_elapsed": 666654,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "76": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 76,
+    "time_elapsed": 677677,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "77": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":11814}]",
+    "rt": 11814,
+    "trial_type": "instructions",
+    "trial_index": 77,
+    "time_elapsed": 690494,
+    "internal_node_id": "0.0-5.0"
+  },
+  "78": {
+    "rt": 36621,
+    "responses": "{\"Q0\":\"BYU\",\"Q1\":\"Shark\",\"Q2\":\"Belgium\",\"Q3\":\"George Carlin\",\"Q4\":\"kiss\",\"Q5\":\"pit bull\",\"Q6\":\"bible\",\"Q7\":\"pig\",\"Q8\":\"paper\",\"Q9\":\"civet\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 78,
+    "time_elapsed": 728137,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 04:05:59 GMT",
+    "completed": true,
+    "condition": 2
+  },
+  "_id": {
+    "$oid": "61a997a72c4bc58ddce42d40"
+  },
+  "filename": "curiosity1638504359456.json",
+  "__v": 0
+},{
+  "0": {
+    "rt": 9457,
+    "responses": "{\"Q0\":\"8\"}",
+    "trial_type": "survey-text",
+    "trial_index": 0,
+    "time_elapsed": 9461,
+    "internal_node_id": "0.0-0.0"
+  },
+  "1": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":5811},{\"page_index\":1,\"viewing_time\":5029},{\"page_index\":2,\"viewing_time\":8496}]",
+    "rt": 19337,
+    "index_shuffled": [
+      18,
+      6,
+      9,
+      11,
+      12,
+      8,
+      13,
+      3,
+      2,
+      19,
+      10,
+      7,
+      14,
+      4,
+      0,
+      16,
+      17,
+      1,
+      15,
+      5
+    ],
+    "trial_type": "instructions",
+    "trial_index": 1,
+    "time_elapsed": 29802,
+    "internal_node_id": "0.0-1.0"
+  },
+  "2": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 2,
+    "time_elapsed": 36811,
+    "internal_node_id": "0.0-2.0-0.0"
+  },
+  "3": {
+    "rt": 9901,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 3,
+    "time_elapsed": 47725,
+    "internal_node_id": "0.0-2.0-1.0"
+  },
+  "4": {
+    "rt": -1,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 4,
+    "time_elapsed": 54737,
+    "internal_node_id": "0.0-2.1-0.1"
+  },
+  "5": {
+    "rt": 4748,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 5,
+    "time_elapsed": 60491,
+    "internal_node_id": "0.0-2.1-1.1"
+  },
+  "6": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 6,
+    "time_elapsed": 67496,
+    "internal_node_id": "0.0-2.2-0.2"
+  },
+  "7": {
+    "rt": 5470,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"1\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 7,
+    "time_elapsed": 73976,
+    "internal_node_id": "0.0-2.2-1.2"
+  },
+  "8": {
+    "rt": -1,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 8,
+    "time_elapsed": 80981,
+    "internal_node_id": "0.0-2.3-0.3"
+  },
+  "9": {
+    "rt": 3350,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"0\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 9,
+    "time_elapsed": 85339,
+    "internal_node_id": "0.0-2.3-1.3"
+  },
+  "10": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 10,
+    "time_elapsed": 92348,
+    "internal_node_id": "0.0-2.4-0.4"
+  },
+  "11": {
+    "rt": 2635,
+    "responses": "{\"Q0\":\"5\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 11,
+    "time_elapsed": 95994,
+    "internal_node_id": "0.0-2.4-1.4"
+  },
+  "12": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 12,
+    "time_elapsed": 103000,
+    "internal_node_id": "0.0-2.5-0.5"
+  },
+  "13": {
+    "rt": 2677,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"4\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 13,
+    "time_elapsed": 106687,
+    "internal_node_id": "0.0-2.5-1.5"
+  },
+  "14": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 14,
+    "time_elapsed": 113692,
+    "internal_node_id": "0.0-2.6-0.6"
+  },
+  "15": {
+    "rt": 2945,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 15,
+    "time_elapsed": 117646,
+    "internal_node_id": "0.0-2.6-1.6"
+  },
+  "16": {
+    "rt": -1,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 16,
+    "time_elapsed": 124652,
+    "internal_node_id": "0.0-2.7-0.7"
+  },
+  "17": {
+    "rt": 3698,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 17,
+    "time_elapsed": 129358,
+    "internal_node_id": "0.0-2.7-1.7"
+  },
+  "18": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 18,
+    "time_elapsed": 136365,
+    "internal_node_id": "0.0-2.8-0.8"
+  },
+  "19": {
+    "rt": 5306,
+    "responses": "{\"Q0\":\"4\",\"Q1\":\"4\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 19,
+    "time_elapsed": 142678,
+    "internal_node_id": "0.0-2.8-1.8"
+  },
+  "20": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 20,
+    "time_elapsed": 149684,
+    "internal_node_id": "0.0-2.9-0.9"
+  },
+  "21": {
+    "rt": 3471,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"8\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 21,
+    "time_elapsed": 154164,
+    "internal_node_id": "0.0-2.9-1.9"
+  },
+  "22": {
+    "rt": -1,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 22,
+    "time_elapsed": 161172,
+    "internal_node_id": "0.0-2.10-0.10"
+  },
+  "23": {
+    "rt": 3300,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 23,
+    "time_elapsed": 165480,
+    "internal_node_id": "0.0-2.10-1.10"
+  },
+  "24": {
+    "rt": -1,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 24,
+    "time_elapsed": 172486,
+    "internal_node_id": "0.0-2.11-0.11"
+  },
+  "25": {
+    "rt": 3131,
+    "responses": "{\"Q0\":\"3\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 25,
+    "time_elapsed": 176626,
+    "internal_node_id": "0.0-2.11-1.11"
+  },
+  "26": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 26,
+    "time_elapsed": 183631,
+    "internal_node_id": "0.0-2.12-0.12"
+  },
+  "27": {
+    "rt": 3363,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 27,
+    "time_elapsed": 188001,
+    "internal_node_id": "0.0-2.12-1.12"
+  },
+  "28": {
+    "rt": -1,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 28,
+    "time_elapsed": 195015,
+    "internal_node_id": "0.0-2.13-0.13"
+  },
+  "29": {
+    "rt": 3928,
+    "responses": "{\"Q0\":\"1\",\"Q1\":\"3\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 29,
+    "time_elapsed": 199950,
+    "internal_node_id": "0.0-2.13-1.13"
+  },
+  "30": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 30,
+    "time_elapsed": 206956,
+    "internal_node_id": "0.0-2.14-0.14"
+  },
+  "31": {
+    "rt": 3937,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 31,
+    "time_elapsed": 211899,
+    "internal_node_id": "0.0-2.14-1.14"
+  },
+  "32": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 32,
+    "time_elapsed": 218903,
+    "internal_node_id": "0.0-2.15-0.15"
+  },
+  "33": {
+    "rt": 8070,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"6\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 33,
+    "time_elapsed": 227978,
+    "internal_node_id": "0.0-2.15-1.15"
+  },
+  "34": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 34,
+    "time_elapsed": 234987,
+    "internal_node_id": "0.0-2.16-0.16"
+  },
+  "35": {
+    "rt": 2183,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"7\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 35,
+    "time_elapsed": 238179,
+    "internal_node_id": "0.0-2.16-1.16"
+  },
+  "36": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 36,
+    "time_elapsed": 245187,
+    "internal_node_id": "0.0-2.17-0.17"
+  },
+  "37": {
+    "rt": 3023,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 37,
+    "time_elapsed": 249216,
+    "internal_node_id": "0.0-2.17-1.17"
+  },
+  "38": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 38,
+    "time_elapsed": 256223,
+    "internal_node_id": "0.0-2.18-0.18"
+  },
+  "39": {
+    "rt": 3446,
+    "responses": "{\"Q0\":\"6\",\"Q1\":\"5\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 39,
+    "time_elapsed": 260675,
+    "internal_node_id": "0.0-2.18-1.18"
+  },
+  "40": {
+    "rt": -1,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 40,
+    "time_elapsed": 267682,
+    "internal_node_id": "0.0-2.19-0.19"
+  },
+  "41": {
+    "rt": 4655,
+    "responses": "{\"Q0\":\"0\",\"Q1\":\"2\"}",
+    "trial_type": "survey-likert",
+    "trial_index": 41,
+    "time_elapsed": 273344,
+    "internal_node_id": "0.0-2.19-1.19"
+  },
+  "42": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":18008},{\"page_index\":1,\"viewing_time\":21072}]",
+    "rt": 39080,
+    "trial_type": "instructions",
+    "trial_index": 42,
+    "time_elapsed": 313426,
+    "internal_node_id": "0.0-3.0-0.0"
+  },
+  "43": {
+    "rt": 10875,
+    "responses": "{\"Q0\":[\"Questions in the bonus round will appear based on your CORRECTNESS ratings\"]}",
+    "checked": "[3]",
+    "checked1": "3",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 43,
+    "time_elapsed": 325319,
+    "internal_node_id": "0.0-3.0-1.0"
+  },
+  "44": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":8884},{\"page_index\":1,\"viewing_time\":1227}]",
+    "rt": 10112,
+    "trial_type": "instructions",
+    "trial_index": 44,
+    "time_elapsed": 341080,
+    "internal_node_id": "0.0-3.1-0.1"
+  },
+  "45": {
+    "rt": 2263,
+    "responses": "{\"Q0\":[\"Questions will appear RANDOMLY in the bonus round\"]}",
+    "checked": "[1]",
+    "checked1": "1",
+    "trial_type": "survey-multi-choice",
+    "trial_index": 45,
+    "time_elapsed": 344355,
+    "internal_node_id": "0.0-3.1-1.1"
+  },
+  "46": {
+    "rt": -1,
+    "stimulus": "<center> From what city in the United States did Coca-Cola originate?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 46,
+    "time_elapsed": 350363,
+    "internal_node_id": "0.0-4.0-0.0"
+  },
+  "47": {
+    "rt": 4821,
+    "stimulus": "<center> What is the only type of animal besides a human that can get a sunburn?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 47,
+    "time_elapsed": 356370,
+    "internal_node_id": "0.0-4.1-0.1"
+  },
+  "48": {
+    "rt": 6978,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": 32,
+    "trial_type": "single-stim",
+    "trial_index": 48,
+    "time_elapsed": 367377,
+    "internal_node_id": "0.0-4.1-1.1-0.1"
+  },
+  "49": {
+    "rt": -1,
+    "stimulus": "<center> What is the most sober school according to The Princeton Review?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 49,
+    "time_elapsed": 373385,
+    "internal_node_id": "0.0-4.2-0.2"
+  },
+  "50": {
+    "rt": 2821,
+    "stimulus": "<center> What invention should make Ts'ai Lun, a 2nd century inventor, a household name?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 50,
+    "time_elapsed": 379396,
+    "internal_node_id": "0.0-4.3-0.3"
+  },
+  "51": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 51,
+    "time_elapsed": 390400,
+    "internal_node_id": "0.0-4.3-1.3-0.3"
+  },
+  "52": {
+    "rt": -1,
+    "stimulus": "<center> What breed of dog is the only animal whose evidence is admissible in American courts?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 52,
+    "time_elapsed": 396408,
+    "internal_node_id": "0.0-4.4-0.4"
+  },
+  "53": {
+    "rt": -1,
+    "stimulus": "<center> What snack food is an ingredient in the explosive dynamite?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 53,
+    "time_elapsed": 402416,
+    "internal_node_id": "0.0-4.5-0.5"
+  },
+  "54": {
+    "rt": -1,
+    "stimulus": "<center> What animal can shed up to 30,000 teeth in its lifetime?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 54,
+    "time_elapsed": 408425,
+    "internal_node_id": "0.0-4.6-0.6"
+  },
+  "55": {
+    "rt": 945,
+    "stimulus": "<center> What book is the most shoplifted book in the world?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 55,
+    "time_elapsed": 414433,
+    "internal_node_id": "0.0-4.7-0.7"
+  },
+  "56": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 56,
+    "time_elapsed": 425438,
+    "internal_node_id": "0.0-4.7-1.7-0.7"
+  },
+  "57": {
+    "rt": -1,
+    "stimulus": "<center> What city was Groundhog Day, starring Bill Murray, filmed in?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 57,
+    "time_elapsed": 431447,
+    "internal_node_id": "0.0-4.8-0.8"
+  },
+  "58": {
+    "rt": -1,
+    "stimulus": "<center> What animal's excrements are consumed as luxury food?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 58,
+    "time_elapsed": 437455,
+    "internal_node_id": "0.0-4.9-0.9"
+  },
+  "59": {
+    "rt": 1122,
+    "stimulus": "<center> What city is referred to as 'Pittsburgh of the South'?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 59,
+    "time_elapsed": 443463,
+    "internal_node_id": "0.0-4.10-0.10"
+  },
+  "60": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 60,
+    "time_elapsed": 454470,
+    "internal_node_id": "0.0-4.10-1.10-0.10"
+  },
+  "61": {
+    "rt": 2561,
+    "stimulus": "<center> Which school has the most students over age 25 according to US News?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 61,
+    "time_elapsed": 460478,
+    "internal_node_id": "0.0-4.11-0.11"
+  },
+  "62": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 62,
+    "time_elapsed": 471484,
+    "internal_node_id": "0.0-4.11-1.11-0.11"
+  },
+  "63": {
+    "rt": -1,
+    "stimulus": "<center> Who was the first host of the comedy show Saturday Night Live?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 63,
+    "time_elapsed": 477492,
+    "internal_node_id": "0.0-4.12-0.12"
+  },
+  "64": {
+    "rt": 3346,
+    "stimulus": "<center> What is the museum-surrounded space in Washington DC called?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 64,
+    "time_elapsed": 483500,
+    "internal_node_id": "0.0-4.13-0.13"
+  },
+  "65": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 65,
+    "time_elapsed": 494507,
+    "internal_node_id": "0.0-4.13-1.13-0.13"
+  },
+  "66": {
+    "rt": -1,
+    "stimulus": "<center> What rock and roll band performs -I want to Rock and Roll All Night?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 66,
+    "time_elapsed": 500515,
+    "internal_node_id": "0.0-4.14-0.14"
+  },
+  "67": {
+    "rt": -1,
+    "stimulus": "<center> What type of political campaign is characterized by many stops in small towns?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 67,
+    "time_elapsed": 506523,
+    "internal_node_id": "0.0-4.15-0.15"
+  },
+  "68": {
+    "rt": -1,
+    "stimulus": "<center> What instrument was invented to sound like a human singing?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 68,
+    "time_elapsed": 512531,
+    "internal_node_id": "0.0-4.16-0.16"
+  },
+  "69": {
+    "rt": -1,
+    "stimulus": "<center> What unfortunate handicap did Thomas Edison suffer from?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 69,
+    "time_elapsed": 518539,
+    "internal_node_id": "0.0-4.17-0.17"
+  },
+  "70": {
+    "rt": -1,
+    "stimulus": "<center> What is the only country in the world where women dominate the government?</center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 70,
+    "time_elapsed": 524547,
+    "internal_node_id": "0.0-4.18-0.18"
+  },
+  "71": {
+    "rt": 1576,
+    "stimulus": "<center> How long were Jerry Seinfeld and his pals sentenced in the series finale?</center>",
+    "key_press": 65,
+    "trial_type": "single-stim",
+    "trial_index": 71,
+    "time_elapsed": 530556,
+    "internal_node_id": "0.0-4.19-0.19"
+  },
+  "72": {
+    "rt": -1,
+    "stimulus": "<center> Answer is </center>",
+    "key_press": -1,
+    "trial_type": "single-stim",
+    "trial_index": 72,
+    "time_elapsed": 541564,
+    "internal_node_id": "0.0-4.19-1.19-0.19"
+  },
+  "73": {
+    "view_history": "[{\"page_index\":0,\"viewing_time\":91824}]",
+    "rt": 91825,
+    "trial_type": "instructions",
+    "trial_index": 73,
+    "time_elapsed": 634391,
+    "internal_node_id": "0.0-5.0"
+  },
+  "74": {
+    "rt": 105815,
+    "responses": "{\"Q0\":\"University of Phoenix\",\"Q1\":\"Deafness\",\"Q2\":\"One year\",\"Q3\":\"Birmingham, AL\",\"Q4\":\"Atlanta, Georgia \",\"Q5\":\"Fish Eggs\",\"Q6\":\"\",\"Q7\":\"Paper\",\"Q8\":\"\",\"Q9\":\"Pig\"}",
+    "trial_type": "survey-text-2",
+    "trial_index": 74,
+    "time_elapsed": 741231,
+    "internal_node_id": "0.0-6.0",
+    "date": "Fri, 03 Dec 2021 04:06:43 GMT",
+    "completed": true,
+    "condition": 2
+  },
+  "_id": {
+    "$oid": "61a997d32c4bc58ddce42d42"
+  },
+  "filename": "curiosity1638504403532.json",
+  "__v": 0
+}]
