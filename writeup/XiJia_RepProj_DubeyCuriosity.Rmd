@@ -58,7 +58,7 @@ I will use the same exclusion criteria as the original paper: participants who r
 
 For analysis: "Following Kang et al.’s (2009) methodology, the raw curiosity ratings were individually normalized and confidence was rescaled to range from 0 to 1, and we fitted the data to the equation, curiosity = b0 + b1 x c + b2 x c x (1 - c), to both the conditions, where c was the rescaled confidence score...(In Phase two), we first computed the probability of participants revealing an answer conditioned on the confidence rating for both the conditions...Similar to the previous analysis, we fitted data to the equation...to both conditions."
 
-**Clarify key analysis of interest here**  You can also pre-specify additional analyses you plan to do.
+**Clarify key analysis of interest here**  
 
 The key analysis of interest is to see whether the data from two conditions will fit to the quadratic function differently, where the data from the confidence condition will generate a significant coefficient for the quadratic term (b2 estimate = 0.6, p < 0.05 in the paper) and an insignificant coefficient for the liner term (b1 estimate = -0.03, p = 0.5). This means a U-shaped (quadratic) relationship exist for data in this condition. On the contrary, the data from the uniform condition generated an insignificant coefficient for the quadratic term (the b2 estimate was not reported, but p = .34) and a significant coefficient for the liner term (the b1 estimate = -0.27, p < .05). This implies a decreasing relationship for data in this conditon. 
 
@@ -72,15 +72,13 @@ Explicitly describe known differences in sample, setting, procedure, and analysi
 4) time and compensation are changed to this study's specifics.
 
 ### Methods Addendum (Post Data Collection)
-
-You can comment this section out prior to final report with data collection.
+  None.
 
 #### Actual Sample
-  Sample size, demographics, data exclusions based on rules spelled out in analysis plan
+  Due to financial constraints, I collected data of 247 participants (124 in the confidence condition, and 123 in the uniform condition). With the same exlusion criterion in the paper (eliminating bad participants who either revealed all or none of the answers of the questions), 11 participants are exluded from the confidence condition and 15 participants are excluded from the uniform condition. The final sample size becomes 221 (113 of them remained in the confidence condition and 116 of them remained in the uniform condition).
 
 #### Differences from pre-data collection methods plan
-  Any differences from what was described as the original plan, or “none”.
-
+  None.
 
 ## Results
 ### Data preparation
@@ -158,29 +156,53 @@ Data preparation will be in MATLAB code. If I have spare time, I will rewrite th
 
 The analyses as specified in the analysis plan.  
 
-```{r, echo=FALSE,out.width="32%",out.height="30%",fig.cap="Original Study Plot - Pilot A Plot- Pilot B Plot",fig.show='hold',fig.align='center'}
+```{r, echo=FALSE,out.width="50%",out.height="30%",fig.cap="Original Study Plot(on paper) - Original Study Plot(from code)",fig.show='hold',fig.align='center'}
 
-knitr::include_graphics(c("images/original_plot.png","images/PilotA_phase2.png","images/PilotB_phase2.png"))
+knitr::include_graphics(c("images/1_original_plot_paper.png","images/2_original_phase2_plot.png"))
+``` 
+```{r, echo=FALSE,out.width="32%",out.height="30%",fig.cap="Pilot A Plot - Pilot B Plot - Final Data Plot",fig.show='hold',fig.align='center'}
+
+knitr::include_graphics(c("images/3_PilotA_phase2.png","images/4_PilotB_phase2.png", "images/5_FinalData_phase2.png"))
 ``` 
 
 
-```{r, echo=FALSE,out.width="49%",out.height="20%",fig.cap="Original Significance Test Result - Pilot B Result",fig.show='hold',fig.align='center'}
+```{r, echo=FALSE,out.width="32%",out.height="20%",fig.cap="Original Significance Test Result - Pilot B Result - Final Result",fig.show='hold',fig.align='center'}
 
-knitr::include_graphics(c("images/original_paper_significance_test.png","images/pilotb_significant_test.png"))
+knitr::include_graphics(c("images/6_original_paper_significance_test.png","images/7_pilotb_significant_test.png", "images/8_Final_data_significance_test.png"))
 ``` 
 
 
 ### Exploratory analyses
 
+Due to financial constraints, I set up two separate Prolific accounts to separately collect data from two conditions. Therefore, some participants participated twice in both conditions, despite the specified instructions asking participants to not take the part two study if they have completed part one.
+
+For the exploratory analysis, I excluded participants' second attempt for those who participated twice. Here are the results. 
+
+```{r, echo=FALSE,out.width="32%",out.height="30%",fig.cap="Participants_Without_Repetition_Plot - Participants_Without_Repetition_Significance_Test",fig.show='hold',fig.align='center'}
+
+knitr::include_graphics(c("images/9_exploratory_FinalData_WithoutRepetition_phase2.png","images/10_Exploratory_significance_test.png"))
+``` 
+
 If there is additional time, I hope to conduct
 1) model explorations to see if other models such as two linear models can fit the data in the confidence condition, according to the method described here: http://datacolada.org/27.
 2) analyze topic curiosity to see if there are across participants' curiosity (tendency to reveal answers) for specific topics.
+3) see the correlation map between participants' curious ratings and participants' confidence ratings in Phase 1.  
+4) see within-subject participants' data across two conditions. 
 
 ## Discussion
 ### Summary of Replication Attempt
 
-Open the discussion section with a paragraph summarizing the primary result from the confirmatory analysis and the assessment of whether it replicated, partially replicated, or failed to replicate the original result.  
+In final data's model fitting results, the confidence condition generates significant coefficients for both the quadratic term and the linear term (b2 estimate = 0.5, p <0.05; b1 estimate = -0.17, p < 0.05).The uniform condition generates a significant coefficient for the linear term (b1 = -0.17, p < 0.05) and an insignificant coefficient for the quadratic term (b2 estimate = 0.4, p = 0.056).
+
+In final data (without repeated participation)'s model fitting results, the confidence condition generates significant coefficients for both the quadratic term and the linear term (b2 estimate = 0.49, p <0.05; b1 estimate = -0.17, p < 0.05). The uniform condition generates a significant coefficient for the linear term (b1 = -0.22, p < 0.05) and an insignificant coefficient for the quadratic term (b2 estimate = 0.4, p = 0.052).
+
+Remember, the original paper's numbers are:
+In the confidence condition, b2 estimate = 0.6, p < 0.05, and b1 estimate = -0.03, p = 0.5. In the uniform condition, b2 estimate was not reported, p = .34 and b1 estimate was -0.27, p < 0.05. 
+
+Based on the above results, I think the study failed to replicate the original result.  
 
 ### Commentary
 
-Add open-ended commentary (if any) reflecting (a) insights from follow-up exploratory analysis, (b) assessment of the meaning of the replication (or not) - e.g., for a failure to replicate, are the differences between original and present study ones that definitely, plausibly, or are unlikely to have been moderators of the result, and (c) discussion of any objections or challenges raised by the current and original authors about the replication attempt.  None of these need to be long.
+Further exploratory analyses as specified above would be helpful to gain further insights about participants' decisions and behaviors. Additionally, further analyses of the original dataset would be helpful too, to see what is the number of participants who rated the questions at zero or full confidence, if that's a small number of people and whether a few outliers who decided to reveal the answers in confidence = 0, and less at confidence = 1 (more rational behaviors) made the uniform condition more linearly decreasing.  
+
+The study result also showed that participants are not fully rational-in the uniform condition, they didn't reveal the answer they rated at confidence = 0 all the time. I wonder if potential barriers are memory (not remembering which specific question they rated at zero confidence, therefore adding noise), time-constraint of the study (so participants felt rushed to finish the experiment without too much time thinking), or intrinsic motivation to reveal questions still, despite their full confidence of the question's answer.Future studies that disentangle these potential variables can show the effect more clearly.  

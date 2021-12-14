@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/845868/362aeca080fc4703baa507cdd71f7059
+bundleId: https://api.rpubs.com/api/v1/document/845868/362aeca080fc4703baa507cdd71f7059
+url: http://rpubs.com/lauraxijia/845868
+when: 1639476628.62146
+lastSyncTime: 1639476628.62147
