@@ -59,7 +59,7 @@ opt.AxisLineWidth = 1;
 opt.XGrid = 'on';
 opt.YGrid = 'on';
 opt.ShowBox = 'on';
-opt.FileName = '..\images\PilotB_phase2.png';
+opt.FileName = '..\images\FinalData_phase2.png';
 setPlotProp(opt);       
 legend({'Confidence based sampling', 'Uniform sampling'},'FontSize',12)
 

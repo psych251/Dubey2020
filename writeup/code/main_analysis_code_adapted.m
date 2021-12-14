@@ -2,7 +2,7 @@
 % u-curve for both phases and non-existence for condition 2 (in Phase 2), subsequent regression analysis similar to Kang et. al. also part of this code
 
 clear all; 
-all_data = loadjson('../data/curios_rep_pilot_b_deidentified.json'); %read data in a big cell here
+all_data = loadjson('../data/curios_rep_final_deidentified.json'); %read data in a big cell here
 
 
 % This code is for experiment with 20 questions 
